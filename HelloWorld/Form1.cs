@@ -19,7 +19,7 @@ namespace HelloWorld
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World","メッセージ",MessageBoxButtons.OK,MessageBoxIcon.Information);
+            MessageBox.Show("Hello World2","メッセージ",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
     }
 }
